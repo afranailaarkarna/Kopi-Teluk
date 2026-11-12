@@ -18,3 +18,21 @@ Website ini dibuat untuk menampilkan informasi mengenai menu minuman dan makanan
 - CSS – Mengatur tampilan dan desain website.
 - JavaScript – Menambahkan fungsi interaktif pada website.
 
+## 🚀 Cara Menjalankan Website
+
+1. Download atau clone repository ini.
+2. Buka folder proyek.
+3. Jalankan file `main.html` menggunakan browser.
+4. Website siap ditampilkan.
+
+## 🎯 Tujuan Pembuatan
+
+Website ini dibuat sebagai proyek latihan pengembangan web untuk memperkenalkan produk kopi lokal Sulawesi Tenggara melalui tampilan website yang sederhana dan informatif.
+
+## 👤 Pengembang
+
+Dikembangkan sebagai proyek pembelajaran pengembangan website menggunakan HTML, CSS, dan JavaScript.
+
+---
+
+© 2026 Kopi Teluk. All Rights Reserved.
